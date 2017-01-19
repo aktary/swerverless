@@ -8,6 +8,7 @@ them as appropriate.
 Install apex: `$ curl https://raw.githubusercontent.com/apex/apex/master/install.sh | sh`
 
 Then, set the profile environment variable and initilize apex:
+
 `$ export AWS_PROFILE=myapp-prod`
 
 `$ apex init`
