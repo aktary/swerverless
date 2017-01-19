@@ -1,5 +1,5 @@
 # swerverless
-A starter package to learn how to go serverless
+A tiny starter package to get you going using [apex](http://apex.run)
 
 If you don't already have ~/.aws/config and ~/.aws/credentials set up,
 copy the sample.aws.config and sample.aws.credentials files and modify
