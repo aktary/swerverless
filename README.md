@@ -12,4 +12,5 @@ Then, set the profile environment variable and initilize apex:
 `$ export AWS_PROFILE=myapp-prod`
 
 `$ apex init`
- 
+
+`$ apex deploy`
